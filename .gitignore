@@ -1,0 +1,128 @@
+# Created by .ignore support plugin (hsz.mobi)
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+# .idea/modules.xml
+# .idea/*.iml
+# .idea/modules
+
+# CMake
+cmake-build-*/
+
+# Mongo Explorer plugin
+.idea/**/mongoSettings.xml
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Editor-based Rest Client
+.idea/httpRequests
+### Scala template
+*.class
+*.log
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.idea/SparkScalaGitHub.iml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea
+
+project/build.properties
+project/target/config-classes/$38c6102dfe0763315b47.cache
+project/target/config-classes/$7516adf1517751b74102.cache
+project/target/config-classes/$77a750b3ccd123aa8df5.cache
+project/target/config-classes/$8588a0f2cfe8e95b9d8d.cache
+project/target/config-classes/$912c4f8d056366b154a4.cache
+project/target/config-classes/$bb21c57cda06ffea8c74.cache
+project/target/idea-classes/
+project/target/idea-test-classes/
+project/target/scala-2.12/
+project/target/streams/
+target/.history
+target/scala-2.12/classes/1800.csv
+target/scala-2.12/classes/META-INF/
+target/scala-2.12/classes/Marvel-graph.txt
+target/scala-2.12/classes/Marvel-names.txt
+target/scala-2.12/classes/book.txt
+target/scala-2.12/classes/com/sundogsoftware/spark/LearningScala1.sc
+target/scala-2.12/classes/com/sundogsoftware/spark/LearningScala2.sc
+target/scala-2.12/classes/com/sundogsoftware/spark/LearningScala3.sc
+target/scala-2.12/classes/com/sundogsoftware/spark/LearningScala4.sc
+target/scala-2.12/classes/customer-orders.csv
+target/scala-2.12/classes/fakefriends.csv
+target/scala-2.12/classes/regression.txt
+target/scala-2.12/classes/twitter.txt
+target/scala-2.12/classes/u.data
+target/scala-2.12/classes/u.item
+target/scala-2.12/resolution-cache/
+target/scala-2.12/test-classes/
+target/streams/
+target
